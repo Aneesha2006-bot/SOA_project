@@ -41,6 +41,33 @@ CivicGuardian AI transitions municipal triage from passive ticketing into an aut
 * DevOps & Hosting: Git, GitHub Actions, Vercel (Frontend), Render (Backend)
 * Development Tools: VS Code, Postman
 
+## Repository Structure
+
+
+├── .gitignore
+├── README.md
+│
+├── frontend/
+│   └── React.js + Tailwind CSS client application
+│
+├── backend/
+│   ├── src/                 # Application source code (FastAPI / Spring Boot)
+│   ├── agents/              # LangChain reasoning and routing agents
+│   └── config/              # Database and security configurations
+│
+├── docs/
+│   ├── architecture/        # System design and workflow diagrams
+│   └── Project documentation
+│
+├── data/
+│   └── Vector database seed schemas and sample mock payloads
+│
+├── results/
+│   └── Model evaluation metrics, routing logs, and test outputs
+│
+└── reports/
+    └── Review reports and final project report
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
