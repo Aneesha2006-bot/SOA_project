@@ -1,4 +1,3 @@
-Shalini:
 # CivicGuardian AI: An Agentic and Service-Oriented Framework for Autonomous Citizen Complaint Management
 
 ## Project Title
