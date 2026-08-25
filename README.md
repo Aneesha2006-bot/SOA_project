@@ -42,8 +42,6 @@ CivicGuardian AI transitions municipal triage from passive ticketing into an aut
 * Development Tools: VS Code, Postman
 
 ## Repository Structure
-
-
 ├── .gitignore
 ├── README.md
 │
@@ -67,6 +65,9 @@ CivicGuardian AI transitions municipal triage from passive ticketing into an aut
 │
 └── reports/
     └── Review reports and final project report
+
+
+
 
 ## Setup Instructions
 
